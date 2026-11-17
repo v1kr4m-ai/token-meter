@@ -1,0 +1,9 @@
+{
+  "name": "token-meter",
+  "version": "0.3.0",
+  "description": "Live token counter in the footer, plus a usage card: tokens per 5-hour window and week, split by type and model, across all sessions.",
+  "author": { "name": "v1kr4m-ai", "url": "https://github.com/v1kr4m-ai" },
+  "homepage": "https://github.com/v1kr4m-ai/token-meter",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "token-meter",
+  "owner": { "name": "v1kr4m-ai" },
+  "plugins": [
+    {
+      "name": "token-meter",
+      "source": "./",
+      "description": "Live token counter in the Claude Code footer, plus a usage card: tokens per 5-hour window and week, split by type and model, across all your sessions."
+    }
+  ]
+}
